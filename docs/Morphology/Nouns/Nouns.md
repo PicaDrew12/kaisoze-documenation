@@ -129,7 +129,7 @@ The **locative** case shows **location**, using the suffix **`-no`**. It's simil
 | Definitive  | melisa**ni** – "the girl" | Only in nominative case                   |
 | Plural      | za mia – "cats"          | Preposition before noun                   |
 | Accusative  | mia**ki** – "cat (object)" | -**ki** suffix; no definitive             |
-| Genitive    | melisa**do** mia / `mia**ni** melisa**do**` | Two patterns for possession |
+| Genitive    | melisa**do** mia / mia**ni** melisa**do** | Two patterns for possession |
 | Instrumental| onali**gi** – "with a pen" | Means or companion                        |
 | Locative    | imaso**no** – "at school"  | Marks place or location                   |
 
