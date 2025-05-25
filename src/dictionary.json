@@ -1,0 +1,20 @@
+{
+  "Agglutinative": "A way of forming words by adding smaller parts with clear and distinct meanings.",
+  "Morpheme": "The smallest units of meaning in a language.",
+  "SVO": "A sentence structure where the Subject comes first, followed by the Verb, and then the Object.",
+  "Prefix": "An affix added to the beginning of a word.",
+  "Suffix": "An affix added to the end of a word.",
+  "Preposition": "Words that show relationships between other words, such as “in”, “on”, or “at”.",
+  "CV": "A syllable structure made up of a consonant followed by a vowel.",
+  "Tone": "Changes in pitch of the voice that can modify the meaning of a word.",
+  "Diphthong": "A complex vowel sound that begins with one vowel and glides into another within the same syllable.",
+  "Consonant Cluster": "A group of two or more consonants that appear together in a word without a vowel between them.",
+   "Definiteness": "Whether a noun refers to a specific or known entity (definite) or a general or unknown one (indefinite).",
+  "Number": "A grammatical category that expresses count distinctions (such as singular or plural).",
+  "Case": "Grammatical forms that show the role of a noun in a sentence, such as subject or object.",
+  "Nominative": "The case used for the subject of a sentence.",
+  "Accusative": "The case used for the direct object of a verb.",
+  "Genitive": "The case that indicates possession or close association.",
+  "Instrumental": "The case used to indicate the tool or means by which something is done.",
+  "Locative": "The case used to show place or location, like 'at' or 'in'."
+}
