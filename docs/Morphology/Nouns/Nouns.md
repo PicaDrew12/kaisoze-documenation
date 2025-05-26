@@ -13,7 +13,7 @@ A noun in Kaisoze can appear in two forms:
 | Form           | Meaning         | Example             |
 |----------------|------------------|---------------------|
 | Regular        | General concept  | `melisa` – "girl"   |
-| Definitive     | Specific entity  | `melisa**ni**` – "the girl" |
+| Definitive     | Specific entity  | melisa**ni** – "the girl" |
 
 The **definitive form** is created by adding the suffix **`-ni`** (**bolded in examples**).
 
